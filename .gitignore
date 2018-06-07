@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+npm-debug.*
+node_modules/
+cli/node_modules/
+docs/
+coverage/
+sandbox/
